@@ -1,4 +1,4 @@
-# TSMLA™ Licensing Architecture – Addendum B (v1.1)
+# TSMLA™ Licensing Architecture: Addendum B (v1.1)
 
 This document outlines the structural licensing framework for the Tag-Weighted Self-Mirroring Logic Architecture (TSMLA™).  
 It defines post-market access tiers, boundary conditions, and coherence-based licensing safeguards.
