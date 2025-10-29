@@ -7,5 +7,6 @@ It defines post-market access tiers, boundary conditions, and coherence-based li
 > Detailed licensing specifications, pricing, and algorithmic enforcement mechanisms remain protected under NDA (Addendum B-1).
 
 ### Documents
-- [Licensing Architecture Preamble (v1.1)](TSMLA_Licensing_Architecture_Preamble_v1.1.pdf)
+- [Technical Manual_Licensing_Architecture_Preamble-v1.1.pdf](./Technical%20Manual_Licensing_Architecture_Preamble-v1.1.pdf)
+
 - LICENSE.txt : repository access and citation information
