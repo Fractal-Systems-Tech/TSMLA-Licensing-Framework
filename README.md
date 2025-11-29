@@ -8,4 +8,6 @@ It defines post-market access tiers, boundary conditions, and coherence-based li
 
 ### Documents
 
+[Technical Manual_Licensing_Architecture_Preamble-v1.1 (PDF)](./Technical%20Manual_Licensing_Architecture_Preamble-v1.1.pdf)
+
 - LICENSE.txt : repository access and citation information
